@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ubidots:ubidots-java:1.6.6@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ubidots/ubidots-java/1.6.6/953e4435291ad65e49a99ce08fa6722005cdb0f5/ubidots-java-1.6.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ubidots/ubidots-java/1.6.6/c75e9069f05a23e81302a0da8581759c420aaa84/ubidots-java-1.6.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,4 @@
+#Fri Sep 04 19:46:27 EET 2020
+base.0=C\:\\Users\\ismail\\Desktop\\Staj Projesi\\TiltSpot - Kopya\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

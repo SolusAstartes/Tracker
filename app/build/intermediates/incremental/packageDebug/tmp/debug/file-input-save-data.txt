@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Sep 04 19:46:27 EET 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\ismail\\Desktop\\Staj Projesi\\TiltSpot - Kopya\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
